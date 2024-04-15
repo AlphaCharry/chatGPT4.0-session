@@ -34,6 +34,6 @@
 在官网界面刷新后，重新发送 此时官网全部会自动转发傀儡网站的账号权限，请求成功！
 
 
-### 傀儡网站地址 https://chat.chatergpt.top/ 已被修复失效（2024.3.28）（自测）
-### 傀儡网站地址 https://chatin.online/ 可用
+### 傀儡网站地址 https://chat.chatergpt.top/ 已被修复失效（2024.3.28）（大神重新破解）
+### 傀儡网站地址 https://chatin.online/ 可用 （无法访问请翻墙）
 ​

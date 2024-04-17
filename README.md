@@ -1,5 +1,5 @@
 ​
-首先要了解 官网的cf和arkose ，官网的cf和arkose为提供防欺诈技术，特别是针对自动化攻击和帐户接管等在线威胁。OpenAI 的 arkose的解决方案来验证用户身份，防止自动化脚本和机器人滥用其服务。为了以确保只有真实用户可以注册账户或请求资源。
+首先要了解 官网的cf和arkose ，官网的cf和arkose为提供防欺诈技术，特别是针对自动化攻击和帐户接管等在线威胁。OpenAI 的 arkose的解决方案来验证用户身份，防止自动化脚本和机器人滥用其服务。为了以确保只有真实用户可以注册账户或请求资源.
 
 先来登录官网的没开通GPT4 的账号查看他们的请求，可以用工具，比如F代理，或者比如抓包工具，这里简单的的用F12浏览器自带的查看：
 
@@ -10,7 +10,7 @@
 登录我们的傀儡网站 http:// chatin.online
 ![673158642f775d2cd34dfc6fc7239af](https://github.com/AlphaCharry/chatGPT4.0-session/assets/38164385/d2acfc08-07ff-402b-86c9-47d91bc84912)
 
-同样 进入GPT页码 ，这时候我们选择plus账号
+同样 进入GPT页码 ，这时候我们选择plus账号（3.5也能用）
 
 ![f6a45f11b2256c5e235c81ecfa1cc9d](https://github.com/AlphaCharry/chatGPT4.0-session/assets/38164385/1dc50510-1308-45d7-8ade-8d5e0ed3f65b)
 
